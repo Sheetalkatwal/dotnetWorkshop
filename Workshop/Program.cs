@@ -47,5 +47,42 @@
     //    }
     //}
 
+
+    //TASK 3
+    //class Program
+    //{
+    //    static void Main()
+    //    {
+    //        byte age = 25;                     
+    //        short year = 2025;                 
+    //        int population = 150000;           
+    //        long distance = 9812324321;       
+    //        float temperature = 36.7f;         
+    //        double price = 49.99;              
+    //        decimal salary = 85000.75m;        
+    //        char grade = 'A';                  
+    //        bool isPassed = true;              
+
+    //        int number = 42;
+    //        string numberAsString = number.ToString();   // int to string
+
+    //        string valueString = "3.14";
+    //        double valueDouble = Convert.ToDouble(valueString); // string to double
+
+    //        Console.WriteLine("byte (age): " + age);
+    //        Console.WriteLine("short (year): " + year);
+    //        Console.WriteLine("int (population): " + population);
+    //        Console.WriteLine("long (distance): " + distance);
+    //        Console.WriteLine("float (temperature): " + temperature);
+    //        Console.WriteLine("double (price): " + price);
+    //        Console.WriteLine("decimal (salary): " + salary);
+    //        Console.WriteLine("char (grade): " + grade);
+    //        Console.WriteLine("bool (isPassed): " + isPassed);
+    //        Console.WriteLine("Converted int to string: " + numberAsString);
+    //        Console.WriteLine("Converted string to double: " + valueDouble);
+    //    }
+    //}
+
+
 }
 
