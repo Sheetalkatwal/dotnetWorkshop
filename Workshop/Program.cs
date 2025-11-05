@@ -1,4 +1,4 @@
-﻿namespace workshop
+﻿//namespace workshop
 {
     //class Program
     //{
